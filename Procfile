@@ -1,1 +1,1 @@
-worker: python runbot.bat
+web: python bot.py
